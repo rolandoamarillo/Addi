@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">Addi</string>
+
+    <string name="empty" />
+
+    <string name="tab_agenda">Agenda</string>
+    <string name="tab_prospects">Prospectos</string>
+
+    <string name="add_prospect">Agregar Prospecto</string>
+
+    <string name="document_type">Tipo de Documento</string>
+
+    <string-array name="document_type">
+        <item>Cédula de Ciudadanía</item>
+        <item>Cédula de Extranjería</item>
+        <item>Pasaporte</item>
+        <item>Registro Civil</item>
+        <item>Tarjeta de Identidad</item>
+    </string-array>
+    <string name="empty_document_type">El tipo de documento no puede ser vacío</string>
+
+    <string name="document_number">Número de Documento</string>
+    <string name="empty_document_number">El número de documento no puede estar vacío</string>
+
+    <string name="user_already_exists">El usuario ya existe</string>
+
+    <string name="document_expedition_date">Fecha Expedición Documento</string>
+    <string name="empty_document_expedition_date">La fecha de expedición del documento no puede estar vacío</string>
+
+    <string name="name">Nombre</string>
+    <string name="empty_name">El nombre no puede estar vacío</string>
+
+    <string name="lastname">Apellido</string>
+    <string name="empty_lastname">El apellido no puede estar vacío</string>
+
+    <string name="phone">Teléfono</string>
+    <string name="empty_phone">El teléfono no puede estar vacío</string>
+    <string name="invalid_phone">El teléfono ingresado no es válido</string>
+
+    <string name="email">Correo Electrónico</string>
+    <string name="empty_email">El correo electrónico no puede estar vacío</string>
+    <string name="invalid_email">El correo electrónico ingresado no es válido</string>
+
+    <string name="add">Agregar</string>
+
+    <string name="prospect_added">Se ha agregado el prospecto</string>
+
+    <string name="document_not_found">No se ha encontrado una persona con el documento ingresado.</string>
+    <string name="document_with_crimes">El documento ingresado tiene antecedentes judiciales</string>
+    <string name="document_low_rating">El prospecto no tiene un puntaje satisfactorio</string>
+
+    <string name="contact_added">Se ha validado el prospecto y se ha agregado el contacto</string>
+
+    <string name="validate">Validar</string>
+
+</resources>
